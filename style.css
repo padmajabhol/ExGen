@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	background-color: #f18875;
+	color: #000;
+}
+
+#mainHeader, #semiheader{
+    margin-top: 120px;
+	font-family: "Brandon Grotesque";
+    font-weight: 100;
+	font-size: 60px;
+	letter-spacing: 5px;
+	text-align: center;
+	color: #000;
+}
+
+#timething{
+	text-align: center;
+    font-family: Brandon Grotesque;
+	font-size: 35px;
+    margin-bottom: 100px;
+}
+
+select {
+    color: #3e3e3e;
+    border:3px solid #3e3e3e;
+    vertical-align: middle;
+    text-align: center;
+    height:40px;
+    width: 200px;
+    font-size: 25px;
+}
+
+select:active {
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid #3e3e3e;
+	font-size: 15px;
+}
+
+input, select{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#excuse-text{
+    background: #ca462e;
+    font-family: Brandon Grotesque;
+	font-size: 45px;
+	text-align: center;
+	padding: 40;
+	color: #0b0f04;
+    width: 80%;
+    margin: auto;
+}
+
+#timepicker{
+	text-align: center;
+	vertical-align: middle;
+}
+
+#option{
+	color: red;
+}
